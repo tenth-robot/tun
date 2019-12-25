@@ -1,3 +1,3 @@
-#hello.py by JiqinLee. This is 
+#hello.py by JiqinLee.
 print('Hello Git & GitHub')
 print('Hello Python')
